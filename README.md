@@ -21,4 +21,4 @@ Tugas Kelompok - Implementasi Data Hazard pada Simulator ILP
 - `laporan/`  : PDF laporan akhir
 
 ## Link Colab Asli
-https://colab.research.google.com/drive/1dlco_ahE8Y0jsG-CdXeX4IyLw-jT8WZ?usp=sharing
+https://colab.research.google.com/drive/14QlhrZBNsz8l5glBiinzutjP9GLg0Uf_?usp=sharing
